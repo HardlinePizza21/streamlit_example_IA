@@ -7,5 +7,4 @@ seaborn
 plotly
 altair
 scikit-learn
-ydata-profiling
 streamlit-aggrid
